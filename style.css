@@ -1,26 +1,26 @@
 /*
-Theme Name: Coetrappers WP Theme Starter
-Author: Coetrappers
+Theme Name: Codetrappers WP Theme Starter
+Author: Codetrappers
 Description: Minimal classic WordPress theme starter.
 Version: 0.1.0
-Text Domain: coetrappers-wp-theme-starter
+Text Domain: codetrappers-wp-theme-starter
 */
 
 :root {
-  --coetrappers-bg: #f6f4ee;
-  --coetrappers-text: #14213d;
-  --coetrappers-accent: #d97706;
+  --codetrappers-bg: #f6f4ee;
+  --codetrappers-text: #14213d;
+  --codetrappers-accent: #d97706;
 }
 
 body {
   margin: 0;
   font-family: Georgia, serif;
-  background: var(--coetrappers-bg);
-  color: var(--coetrappers-text);
+  background: var(--codetrappers-bg);
+  color: var(--codetrappers-text);
 }
 
 a {
-  color: var(--coetrappers-accent);
+  color: var(--codetrappers-accent);
 }
 
 .site-shell {

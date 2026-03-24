@@ -1,12 +1,12 @@
-# Coetrappers WP Theme Starter
+# Codetrappers WP Theme Starter
 
-`coetrappers-wp-theme-starter` is a wordpress theme starter for the Coetrappers project set.
+`codetrappers-wp-theme-starter` is a wordpress theme starter for the Codetrappers project set.
 Minimal classic WordPress theme starter.
 The codebase is scaffolded to be a clean starting point, not a complete production feature.
 
 ## Project Summary
 
-- Slug: `coetrappers-wp-theme-starter`
+- Slug: `codetrappers-wp-theme-starter`
 - Type: WordPress theme starter
 - Focus: theme, starter, frontend
 

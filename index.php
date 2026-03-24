@@ -8,7 +8,7 @@
 			</article>
 		<?php endwhile; ?>
 	<?php else : ?>
-		<p><?php esc_html_e( 'No posts found.', 'coetrappers-wp-theme-starter' ); ?></p>
+		<p><?php esc_html_e( 'No posts found.', 'codetrappers-wp-theme-starter' ); ?></p>
 	<?php endif; ?>
 </main>
 <?php get_footer(); ?>
